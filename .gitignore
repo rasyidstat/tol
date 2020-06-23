@@ -1,0 +1,8 @@
+!data
+data/*
+!data/bakauheni_terbanggi_211116.geojson
+!data/gerbang_tol_indonesia.geojson
+!data/gt_261219.geojson
+!data/tol_kontruksi_230120.geojson
+!data/tol_operasi_230120.geojson
+.Rproj.user
